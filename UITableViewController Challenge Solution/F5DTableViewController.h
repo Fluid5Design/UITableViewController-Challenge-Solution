@@ -1,5 +1,5 @@
 //
-//  F5DViewController.h
+//  F5DTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Christopher Yin on 11/2/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface F5DViewController : UIViewController
+@interface F5DTableViewController : UITableViewController
 
 @end
